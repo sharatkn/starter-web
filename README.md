@@ -7,9 +7,12 @@ This is edited by Rocky Balboa
 
 Sample website with plenty of files for demos
 
+This is just an example project so chill the duck out
+
 # HOW TO CONTRIBUTE
 
 # DEPLOYMENT
+This will be deployed locally so relax
 
 # INTRODUCTION
 Hello there, just read the starter web repo section
