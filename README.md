@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 # HOW TO CONTRIBUTE
 
 # DEPLOYMENT
+
+# INTRODUCTION
+Hello there, just read the starter web repo section
