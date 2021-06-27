@@ -16,3 +16,6 @@ This will be deployed locally so relax
 
 # INTRODUCTION
 Hello there, just read the starter web repo section
+
+#COPYWRITE
+This is awesome
