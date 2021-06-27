@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 This is just an example project so chill the duck out
 
 # HOW TO CONTRIBUTE
+Please fork and pull request
 
 # DEPLOYMENT
 This will be deployed locally so relax
