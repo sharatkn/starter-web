@@ -20,4 +20,4 @@ This will be deployed locally so relax
 Hello there, just read the starter web repo section
 
 #COPYWRITE
-This is awesome
+This is awesome. All rights reserved
